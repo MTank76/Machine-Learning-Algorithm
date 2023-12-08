@@ -31,9 +31,6 @@ This repository contains Python implementations of fundamental machine learning 
    - Access the respective files or Jupyter Notebooks within their corresponding directories (e.g., `kmeans.py`, `linear.ipynb`, `logistic.ipynb`, `svm.ipynb`).
    - Each file/notebook contains Python code demonstrating the respective algorithm's functionality, usage, and potential applications.
 
-## Purpose
-
-This repository serves as a learning resource for individuals interested in understanding and implementing fundamental machine learning algorithms in Python. It aims to provide clear examples and explanations of these algorithms for educational purposes.
 
 ## Contributing
 
